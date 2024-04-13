@@ -10,7 +10,7 @@
 
 <h3 align="center"><img width="700" style="border-radius:5px;" alt="Створення серверу" src="../../assets/Guild_Create/Discord_Guild_Create.gif"></h3>
 
-<h4 style="text-align: center;">Вітаю, Ви створили ваш новий сервер!</h4>
+<h2 style="text-align: center;">Вітаю, Ви створили ваш новий сервер!</h4>
 
 Далі ви можете перейти до:
 - Налаштування серверу (TODO)
