@@ -5,6 +5,8 @@
 ---
 #### Наразі цей проєкт потребує допомоги! Якщо Ви добре знаєте Discord та можете допомогти, перейдіть до розділу ["Внесок"](https://github.com/DemonWayne/discord-docs-uk/blob/dev/.github/CONTRIBUTING.md).
 ---
+<details><summary>TODO</summary>
+
 ## TODO
 - [ ] Реєстрація акаунту
 	- [ ] Налаштування акаунту
@@ -49,5 +51,8 @@
 - [ ] Як працює монетизація серверу? (наразі недоступно)
 - [ ] Просунуті теми
 	- [ ] Як працює Discord?
+	
+ </details>
+ 
 ---
 [Створення серверу](library/guilds/Guild_Creation.md)
